@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Jira Scraper & LLM Corpus Creator",
+  "description": "A web interface to simulate scraping Apache Jira projects, transforming the data into a JSONL corpus, and using Gemini for derived task generation suitable for training LLMs.",
+  "requestFramePermissions": []
+}
